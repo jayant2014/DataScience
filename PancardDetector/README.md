@@ -1,4 +1,6 @@
-Steps to run application:
+###Pancard Tampering Detection###
+
+*Steps to run application:*
 
 Step 1 : Clone the project
 
